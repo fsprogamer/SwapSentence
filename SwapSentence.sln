@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapSentence", "SwapWords\SwapSentence.csproj", "{5DDDB6D8-B823-436F-A3BF-14B43E864A08}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Sample\Example.csproj", "{8657EE35-8B01-414F-B888-34D415D5179C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapSentence", "SwapSentence\SwapSentence.csproj", "{5DDDB6D8-B823-436F-A3BF-14B43E864A08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapSentenceTests", "SwapSentenceTests\SwapSentenceTests.csproj", "{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}"
 EndProject
@@ -19,10 +17,6 @@ Global
 		{5DDDB6D8-B823-436F-A3BF-14B43E864A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DDDB6D8-B823-436F-A3BF-14B43E864A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DDDB6D8-B823-436F-A3BF-14B43E864A08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8657EE35-8B01-414F-B888-34D415D5179C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8657EE35-8B01-414F-B888-34D415D5179C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8657EE35-8B01-414F-B888-34D415D5179C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8657EE35-8B01-414F-B888-34D415D5179C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU

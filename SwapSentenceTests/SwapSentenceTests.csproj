@@ -55,8 +55,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SwapWords\SwapSentence.csproj">
-      <Project>{5DDDB6D8-B823-436F-A3BF-14B43E864A08}</Project>
+    <ProjectReference Include="..\SwapSentence\SwapSentence.csproj">
+      <Project>{5dddb6d8-b823-436f-a3bf-14b43e864a08}</Project>
       <Name>SwapSentence</Name>
     </ProjectReference>
   </ItemGroup>
