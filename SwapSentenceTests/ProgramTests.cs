@@ -71,14 +71,7 @@ pony along";
         {
             string stdIn = Program.ProcessFile(fsSmall).Result;
             Assert.AreEqual(stdIn.Length, fsSmallSize);
-        }
-        [TestMethod()]
-        public void ProcessFile_Small_Test()
-        {
-            string stdIn = Program.ProcessFile(fsSmall).Result;
-            StringAssert.Equals(stdIn, strExpectedSmall);
-        }
-        
+        }       
         [TestMethod()]
         public void ProcessFile_Large_Size_Test()
         {
@@ -119,7 +112,7 @@ pony along";
         public void JoinWordsTest()
         {
             string strResult = Program.JoinWords(strReverseFirst);
-            StringAssert.Equals(strReverseArraySmall[1], strResult );
+            Assert.IsTrue(string.Equals(strReverseArraySmall[0], strResult ));
         }
     }
 }

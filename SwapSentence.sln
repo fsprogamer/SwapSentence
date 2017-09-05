@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapSentence", "SwapSentenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapSentenceTests", "SwapSentenceTests\SwapSentenceTests.csproj", "{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9", "T9\T9.csproj", "{858B168C-564D-4EAB-9180-2FEDC90999B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Tests", "T9Tests\T9Tests.csproj", "{214E281A-7E21-4918-A3C9-FB4E7382E264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79EACF33-C5B7-4C1D-A085-6C4FF9A4E9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858B168C-564D-4EAB-9180-2FEDC90999B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858B168C-564D-4EAB-9180-2FEDC90999B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858B168C-564D-4EAB-9180-2FEDC90999B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858B168C-564D-4EAB-9180-2FEDC90999B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214E281A-7E21-4918-A3C9-FB4E7382E264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214E281A-7E21-4918-A3C9-FB4E7382E264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214E281A-7E21-4918-A3C9-FB4E7382E264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214E281A-7E21-4918-A3C9-FB4E7382E264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
